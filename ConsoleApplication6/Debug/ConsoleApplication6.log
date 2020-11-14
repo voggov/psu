@@ -1,5 +1,0 @@
-﻿  ConsoleApplication6.cpp
-C:\Users\torer\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(100,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\torer\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(131,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\torer\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(97,20): warning C4101: r: неиспользованная локальная переменная
-  ConsoleApplication6.vcxproj -> C:\Users\torer\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
