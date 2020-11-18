@@ -1,0 +1,5 @@
+﻿  LAB_4_DSF.cpp
+C:\Users\torer\source\repos\LAB_4_DSF\LAB_4_DSF\LAB_4_DSF.cpp(122,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\torer\source\repos\LAB_4_DSF\LAB_4_DSF\LAB_4_DSF.cpp(124,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\torer\source\repos\LAB_4_DSF\LAB_4_DSF\LAB_4_DSF.cpp(209,2): warning C4551: в вызове функции отсутствует список аргументов
+  LAB_4_DSF.vcxproj -> C:\Users\torer\source\repos\LAB_4_DSF\Debug\LAB_4_DSF.exe
